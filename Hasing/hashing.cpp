@@ -1,7 +1,7 @@
 
 #include <bits/stdc++.h>
 
-#include "Arrays/rx.h"
+// #include "Arrays/rx.h"
 
 template <typename T> class Hasing {
 
