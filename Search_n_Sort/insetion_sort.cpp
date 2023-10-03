@@ -12,7 +12,6 @@ void insertionSort(std::vector<int> &arr, int n) {
     }
   }
 }
-
 int main() {
   std::vector<int> v = {9, 8, 7, 6, 5, 4, 3};
   insertionSort(v, 7);
